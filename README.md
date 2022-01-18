@@ -14,18 +14,16 @@ Hi, my name is Nathan Zhong, a computer science student excited to apply my skil
 
 # Education 🏫
 - Freshman at Georgia Tech studying Computer Science
-- Currently learning object-oriented programming and linear algebra
-- Past courses taken include Calculus and Statistics
+- Currently learning data structures, algorithms, computer organization, and discrete math
+- Past courses taken include object-oriented programming, linear algebra, calculus and statistics
 
 # Languages 👩🏻‍💻
-<p align="left">
-          <img width="32" height="32" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/python.svg">
-          <img width="32" height="32" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/c++.svg">
-          <img width="32" height="32" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/java.svg">
-           <img width="80" height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png">
-           <img width="80" height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1280px-NumPy_logo_2020.svg.png">
-</p>
-
+- Java
+- Python
+- C++
+- Javascript
+- C++/Java
+          
 # Interests 🕵️
 - Artificial Intelligence, Machine Learning 
 - Data Science
