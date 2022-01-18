@@ -22,7 +22,7 @@ Hi, my name is Nathan Zhong, a computer science student excited to apply my skil
 - Python
 - C++
 - Javascript
-- C++/Java
+- HTML/CSS
           
 # Interests 🕵️
 - Artificial Intelligence, Machine Learning 
