@@ -13,9 +13,9 @@
 Hi, my name is Nathan Zhong, a computer science student excited to apply my skills to real-world learning opportunities. I'm curious, hard-working, and excited to push my boundaries in what I can accomplish, and looking for ways to grow my technical and soft skills.
 
 # Education 🏫
-- Rising second-year at Georgia Tech studying Computer Science
-- Currently on summer break :)
-- Past courses taken include computer organization, data structures and algorithms, object-oriented programming, discrete math, linear algebra, calculus and statistics
+- Second-year at Georgia Tech studying Computer Science
+- Currently on winter break :)
+- Past courses taken include intro to AI, computer systems/organization, data structures and algorithms, object-oriented programming, combinatorics, discrete math, linear algebra, calculus and statistics
 
 # Languages 👩🏻‍💻
 - Java
